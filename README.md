@@ -1,5 +1,8 @@
 # angola_flag
 
+## Screenshot
+![Sreenshot](/src/assets/screen.png)
+
 ## Project setup
 ```
 npm install
